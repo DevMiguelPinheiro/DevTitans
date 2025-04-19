@@ -1,1 +1,86 @@
-esteArquivoSeraIgnorado.txt
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos de compilação
+*.o
+*.out
+*.exe
+*.so
+*.dll
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Android
+*.apk
+*.aab
+*.iml
+.gradle/
+local.properties
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+build/
+app/build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de debug
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de cobertura
+coverage/
+*.lcov
+
+# Arquivos temporários
+tmp/
+temp/
